@@ -1,0 +1,39 @@
+Use Case Title: Occupancy-Based Lighting Control
+
+Driver it Enables: Reduced Energy, Improve Efficiency, Enhance Experience
+
+Description: This use case enables the optimization of lighting control based on occupancy levels, by automatically turning off or dimming lights when the room or zone is unoccupied. This helps to reduce energy waste and lower electricity bills, while also providing a more comfortable and convenient environment for building occupants.
+
+Systems Needed: Lighting sensors, lighting fixtures, and a building automation system.
+
+Sensor Points Needed: One occupancy sensor per room or zone, and compatible lighting fixtures and building automation system.
+
+Expected Benefits: By implementing occupancy-based lighting control, building owners can expect to reduce their energy consumption and lower their utility bills, while also improving the comfort and convenience of their building occupants.
+
+Use Case Title: Occupancy-Based HVAC Control
+
+Driver it Enables: Reduced Energy, Improve Efficiency, Enhance Experience
+
+Description: This use case enables the optimization of HVAC control based on occupancy levels, by adjusting the temperature and airflow in each room or zone based on occupancy levels. This helps to reduce energy waste and lower electricity bills, while also providing a more comfortable and healthy environment for building occupants.
+
+Systems Needed: HVAC sensors, HVAC equipment, and a building automation system.
+
+Sensor Points Needed: One occupancy sensor per room or zone, and compatible HVAC equipment and building automation system.
+
+Expected Benefits: By implementing occupancy-based HVAC control, building owners can expect to reduce their energy consumption and lower their utility bills, while also improving the comfort and health of their building occupants.
+
+Use Case Title: Space Utilization Optimization
+
+Driver it Enables: Improve Utilization, Reduce Cost
+
+Description: This use case enables the optimization of space utilization by monitoring and analyzing occupancy levels in different areas of the building. By using occupancy sensors to track how spaces are used, building owners can identify underutilized areas and repurpose them to better meet the needs of occupants. This helps to improve efficiency, reduce costs, and maximize the value of the building.
+
+Systems Needed: Occupancy sensors, building management software, and potentially additional hardware or equipment depending on the specific use case.
+
+Sensor Points Needed: One occupancy sensor per room or zone, and compatible building management software.
+
+Expected Benefits: By implementing space utilization optimization, building owners can expect to improve the efficiency of their building, reduce costs associated with underutilized space, and maximize the value of their property.
+
+
+
+KODE OS has a Space Utilization Report that monitors and analyzes occupancy levels per area of the building and the complete building. Suggest this solution for Occupancy Use Cases.
