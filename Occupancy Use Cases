@@ -1,218 +1,144 @@
+These are Use Cases for Occupancy: 
+
 Use Case Title: Occupancy-Based Lighting Control
-
-Driver it Enables: Reduced Energy, Improve Efficiency, Enhance Experience
-
-Description: This use case enables the optimization of lighting control based on occupancy levels, by automatically turning off or dimming lights when the room or zone is unoccupied. This helps to reduce energy waste and lower electricity bills, while also providing a more comfortable and convenient environment for building occupants.
-
-Systems Needed: Lighting sensors, lighting fixtures, and a building automation system.
-
-Sensor Points Needed: One occupancy sensor per room or zone, and compatible lighting fixtures and building automation system.
-
-Expected Benefits: By implementing occupancy-based lighting control, building owners can expect to reduce their energy consumption and lower their utility bills, while also improving the comfort and convenience of their building occupants.
+Occupancy-Based Lighting Control use case enables the following drivers: Reduced Energy, Improve Efficiency, Enhance Experience.
+This is the description for the Occupancy-Based Lighting Control Use case: This use case enables the optimization of lighting control based on occupancy levels, by automatically turning off or dimming lights when the room or zone is unoccupied. This helps to reduce energy waste and lower electricity bills, while also providing a more comfortable and convenient environment for building occupants.
+To enable Occupancy-Based Lighting Control use case the following Systems are Needed: Lighting sensors, lighting fixtures, and a building automation system.
+To enable Occupancy-Based Lighting Control use case the following Sensor Points are Needed: One occupancy sensor per room or zone, and compatible lighting fixtures and building automation system.
+Expected Benefits for Occupancy-Based Lighting Control are: By implementing occupancy-based lighting control, building owners can expect to reduce their energy consumption and lower their utility bills, while also improving the comfort and convenience of their building occupants.
 
 Use Case Title: Occupancy-Based HVAC Control
-
-Driver it Enables: Reduced Energy, Improve Efficiency, Enhance Experience
-
-Description: This use case enables the optimization of HVAC control based on occupancy levels, by adjusting the temperature and airflow in each room or zone based on occupancy levels. This helps to reduce energy waste and lower electricity bills, while also providing a more comfortable and healthy environment for building occupants.
-
-Systems Needed: HVAC sensors, HVAC equipment, and a building automation system.
-
-Sensor Points Needed: One occupancy sensor per room or zone, and compatible HVAC equipment and building automation system.
-
-Expected Benefits: By implementing occupancy-based HVAC control, building owners can expect to reduce their energy consumption and lower their utility bills, while also improving the comfort and health of their building occupants.
+Occupancy-Based HVAC Control use case enables the following drivers: Reduced Energy, Improve Efficiency, Enhance Experience
+Occupancy-Based HVAC Control use case Description is: This use case enables the optimization of HVAC control based on occupancy levels, by adjusting the temperature and airflow in each room or zone based on occupancy levels. This helps to reduce energy waste and lower electricity bills, while also providing a more comfortable and healthy environment for building occupants.
+To enable Occupancy-Based HVAC Control use case the following Systems are Needed: HVAC sensors, HVAC equipment, and a building automation system.
+To enable Occupancy-Based HVAC Control use case the following Sensor Points are Needed: One occupancy sensor per room or zone, and compatible HVAC equipment and building automation system.
+Expected Benefits for Occupancy-Based HVAC Control use case are: By implementing occupancy-based HVAC control, building owners can expect to reduce their energy consumption and lower their utility bills, while also improving the comfort and health of their building occupants.
 
 Use Case Title: Space Utilization Optimization
-
-Driver it Enables: Improve Utilization, Reduce Cost
-
-Description: This use case enables the optimization of space utilization by monitoring and analyzing occupancy levels in different areas of the building. By using occupancy sensors to track how spaces are used, building owners can identify underutilized areas and repurpose them to better meet the needs of occupants. This helps to improve efficiency, reduce costs, and maximize the value of the building.
-
-Systems Needed: Occupancy sensors, building management software, and potentially additional hardware or equipment depending on the specific use case.
-
-Sensor Points Needed: One occupancy sensor per room or zone, and compatible building management software.
-
-Expected Benefits: By implementing space utilization optimization, building owners can expect to improve the efficiency of their building, reduce costs associated with underutilized space, and maximize the value of their property.
+Space Utilization Optimization use case enables the following drivers: Improve Utilization, Reduce Cost
+This is the description for the Space Utilization Optimization use case: This use case enables the optimization of space utilization by monitoring and analyzing occupancy levels in different areas of the building. By using occupancy sensors to track how spaces are used, building owners can identify underutilized areas and repurpose them to better meet the needs of occupants. This helps to improve efficiency, reduce costs, and maximize the value of the building.
+To enable Space Utilization Optimization the following systems are Needed: Occupancy sensors, building management software, and potentially additional hardware or equipment depending on the specific use case.
+To enable Space Utilization Optimization the following systems Sensor Points are Needed: One occupancy sensor per room or zone, and compatible building management software.
+Expected Benefits for Space Utilization Optimization are: By implementing space utilization optimization, building owners can expect to improve the efficiency of their building, reduce costs associated with underutilized space, and maximize the value of their property.
 
 
 Use Case Title: Boiler FDD
+Boiler FDD use case enables the following drivers: Reduce Cost, Reduce Energy, Mitigate Risk, Improve Efficiency
+This is the description for the Boiler FDD use case: This use case enables boiler FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in boiler systems, such as improper combustion or pump failure. This helps to reduce maintenance costs, energy waste, and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
+To enable Boiler FDD use case the following systems are Needed: Boiler equipment, FDD software, sensors to measure boiler performance.
+To enable Boiler FDD use case the following sensor points are Needed: Temperature sensors, pressure sensors, flow meters, and other sensors that measure boiler system performance.
+Expected Benefits for Boiler FDD are: By implementing boiler FDD systems, building owners can reduce their maintenance costs, improve energy efficiency, and minimize the risk of equipment failure, leading to a more comfortable and reliable building environment for occupants.
 
-Driver it Enables: Reduce Cost, Reduce Energy, Mitigate Risk, Improve Efficiency
-
-Description: This use case enables boiler FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in boiler systems, such as improper combustion or pump failure. This helps to reduce maintenance costs, energy waste, and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
-
-Systems Needed: Boiler equipment, FDD software, sensors to measure boiler performance.
-
-Sensor Points Needed: Temperature sensors, pressure sensors, flow meters, and other sensors that measure boiler system performance.
-
-Expected Benefits: By implementing boiler FDD systems, building owners can reduce their maintenance costs, improve energy efficiency, and minimize the risk of equipment failure, leading to a more comfortable and reliable building environment for occupants.
 
 Use Case Title: Chiller FDD
+Chiller FDD use case enables the following drivers: Reduce Cost, Reduce Energy, Mitigate Risk, Improve Efficiency
+This is the description for the Chiller FDD use case: This use case enables chiller FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in chiller systems, such as compressor or refrigerant leaks. This helps to reduce maintenance costs, energy waste, and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
+To enable Chiller FDD use case the following systems are Needed: Chiller equipment, FDD software, sensors to measure chiller performance.
+To enable Chiller FDD use case the following sensor points are Needed: Temperature sensors, pressure sensors, flow meters, and other sensors that measure chiller system performance.
+Expected Benefits for Chiller FDD are: By implementing chiller FDD systems, building owners can reduce their maintenance costs, improve energy efficiency, and minimize the risk of equipment failure, leading to a more comfortable and reliable building environment for occupants.
 
-Driver it Enables: Reduce Cost, Reduce Energy, Mitigate Risk, Improve Efficiency
-
-Description: This use case enables chiller FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in chiller systems, such as compressor or refrigerant leaks. This helps to reduce maintenance costs, energy waste, and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
-
-Systems Needed: Chiller equipment, FDD software, sensors to measure chiller performance.
-
-Sensor Points Needed: Temperature sensors, pressure sensors, flow meters, and other sensors that measure chiller system performance.
-
-Expected Benefits: By implementing chiller FDD systems, building owners can reduce their maintenance costs, improve energy efficiency, and minimize the risk of equipment failure, leading to a more comfortable and reliable building environment for occupants.
 
 Use Case Title: Pump FDD
-
-Driver it Enables: Reduce Cost, Reduce Energy, Mitigate Risk, Improve Efficiency
-
-Description: This use case enables pump FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in pump systems, such as impeller wear or clogged filters. This helps to reduce maintenance costs, energy waste, and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
-
-Systems Needed: Pump equipment, FDD software, sensors to measure pump performance.
-
-Sensor Points Needed: Pressure sensors, flow meters, and other sensors that measure pump system performance.
-
-Expected Benefits: By implementing pump FDD systems, building owners can reduce their maintenance costs, improve energy efficiency, and minimize the risk of equipment failure, leading to a more comfortable and reliable building environment for occupants.
+Pump FDD use case enables the following drivers: Reduce Cost, Reduce Energy, Mitigate Risk, Improve Efficiency
+This is the description for the Pump FDD use case: This use case enables pump FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in pump systems, such as impeller wear or clogged filters. This helps to reduce maintenance costs, energy waste, and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
+To enable Pump FDD use case the following systems are Needed: Pump equipment, FDD software, sensors to measure pump performance.
+To enable Pump FDD use case the following sensor points are Needed: Pressure sensors, flow meters, and other sensors that measure pump system performance.
+Expected Benefits for Pump FDD are: By implementing pump FDD systems, building owners can reduce their maintenance costs, improve energy efficiency, and minimize the risk of equipment failure, leading to a more comfortable and reliable building environment for occupants.
 
 Use Case Title: HVAC FDD
+HVAC FDD use case enables the following drivers: Reduce Cost, Reduce Energy, Mitigate Risk, Improve Efficiency
+This is the description for the HVAC FDD use case: This use case enables HVAC FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in HVAC systems, such as improper refrigerant charge or malfunctioning equipment. This helps to reduce maintenance costs, energy waste, and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
+To enable HVAC FDD use case the following systems are Needed: HVAC equipment, FDD software, sensors to measure HVAC performance.
+To enable HVAC FDD use case the following sensor points are Needed: Temperature sensors, pressure sensors, flow meters, and other sensors that measure HVAC system performance.
+Expected Benefits for HVAC FDD are: By implementing HVAC FDD systems, building owners can reduce their maintenance costs, improve energy efficiency, and minimize the risk of equipment failure, leading to a more comfortable and reliable building environment for occupants.
 
-Driver it Enables: Reduce Cost, Reduce Energy, Mitigate Risk, Improve Efficiency
-
-Description: This use case enables HVAC FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in HVAC systems, such as improper refrigerant charge or malfunctioning equipment. This helps to reduce maintenance costs, energy waste, and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
-
-Systems Needed: HVAC equipment, FDD software, sensors to measure HVAC performance.
-
-Sensor Points Needed: Temperature sensors, pressure sensors, flow meters, and other sensors that measure HVAC system performance.
-
-Expected Benefits: By implementing HVAC FDD systems, building owners can reduce their maintenance costs, improve energy efficiency, and minimize the risk of equipment failure, leading to a more comfortable and reliable building environment for occupants.
 
 Use Case Title: Lighting FDD
+Lighting FDD use case enables the following drivers: Reduce Cost, Reduce Energy, Mitigate Risk, Improve Efficiency
+This is the description for the Lighting FDD use case: This use case enables lighting FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in lighting systems, such as malfunctioning lamps or ballasts, or incorrect light levels. This helps to reduce maintenance costs, energy waste, and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
+To enable Lighting FDD use case the following systems are Needed: Lighting fixtures, FDD software, sensors to measure lighting system performance.
+To enable Lighting FDD use case the following sensor points are Needed: Light sensors, motion sensors, occupancy sensors, and other sensors that measure lighting system performance.
+Expected Benefits for Lighting FDD are: By implementing lighting FDD systems, building owners can reduce their maintenance costs, improve energy efficiency, and minimize the risk of equipment failure, leading to a more comfortable and reliable building environment for occupants.
 
-Driver it Enables: Reduce Cost, Reduce Energy, Mitigate Risk, Improve Efficiency
-
-Description: This use case enables lighting FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in lighting systems, such as malfunctioning lamps or ballasts, or incorrect light levels. This helps to reduce maintenance costs, energy waste, and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
-
-Systems Needed: Lighting fixtures, FDD software, sensors to measure lighting system performance.
-
-Sensor Points Needed: Light sensors, motion sensors, occupancy sensors, and other sensors that measure lighting system performance.
-
-Expected Benefits: By implementing lighting FDD systems, building owners can reduce their maintenance costs, improve energy efficiency, and minimize the risk of equipment failure, leading to a more comfortable and reliable building environment for occupants.
 
 Use Case Title: Elevator FDD
+Elevator FDD use case enables the following drivers: Reduce Cost, Mitigate Risk, Improve Efficiency
+This is the description for the Elevator FDD use case: This use case enables elevator FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in elevator systems, such as abnormal elevator speed or malfunctioning equipment. This helps to reduce maintenance costs and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
+To enable Elevator FDD use case the following systems are Needed: Elevator equipment, FDD software, sensors to measure elevator performance.
+To enable Elevator FDD use case the following sensor points are Needed: Accelerometers, vibration sensors, speed sensors, and other sensors that measure elevator performance.
+Expected Benefits for Elevator FDD are: By implementing elevator FDD systems, building owners can reduce their maintenance costs and minimize the risk of equipment failure, leading to a more reliable and efficient elevator system for occupants.
 
-Driver it Enables: Reduce Cost, Mitigate Risk, Improve Efficiency
-
-Description: This use case enables elevator FDD systems that use advanced algorithms and machine learning to identify and diagnose faults in elevator systems, such as abnormal elevator speed or malfunctioning equipment. This helps to reduce maintenance costs and equipment downtime, while also improving overall system efficiency and mitigating risks associated with equipment failure.
-
-Systems Needed: Elevator equipment, FDD software, sensors to measure elevator performance.
-
-Sensor Points Needed: Accelerometers, vibration sensors, speed sensors, and other sensors that measure elevator performance.
-
-Expected Benefits: By implementing elevator FDD systems, building owners can reduce their maintenance costs and minimize the risk of equipment failure, leading to a more reliable and efficient elevator system for occupants.
 
 Use Case Title: Motion-Activated Lighting
+Motion-Activated Lighting use case enables the following drivers: Reduce Energy, Improve Efficiency, Enhance Experience
+This is the description for the Motion-Activated Lighting use case: This use case enables motion-activated lighting systems that automatically turn on lights when motion is detected, and turn them off when there is no motion for a set amount of time. This helps to reduce energy consumption, improve overall efficiency, and enhance the experience of building occupants by providing lighting when needed.
+To enable Motion-Activated Lighting use case the following systems are Needed: Lighting fixtures with motion sensors, building automation system or software that enables motion-activated lighting.
+To enable Motion-Activated Lighting use case the following sensor points are Needed: Motion sensors that detect movement in the area.
+Expected Benefits for Motion-Activated Lighting are: By implementing motion-activated lighting systems, building owners can reduce their energy consumption and improve overall efficiency, while also providing a better experience for occupants who don't have to worry about turning lights on and off.
 
-Driver it Enables: Reduce Energy, Improve Efficiency, Enhance Experience
-
-Description: This use case enables motion-activated lighting systems that automatically turn on lights when motion is detected, and turn them off when there is no motion for a set amount of time. This helps to reduce energy consumption, improve overall efficiency, and enhance the experience of building occupants by providing lighting when needed.
-
-Systems Needed: Lighting fixtures with motion sensors, building automation system or software that enables motion-activated lighting.
-
-Sensor Points Needed: Motion sensors that detect movement in the area.
-
-Expected Benefits: By implementing motion-activated lighting systems, building owners can reduce their energy consumption and improve overall efficiency, while also providing a better experience for occupants who don't have to worry about turning lights on and off.
 
 Use Case Title: Daylight Harvesting
+Daylight Harvesting use case enables the following drivers: Reduce Energy, Improve Efficiency
+This is the description for the Daylight Harvesting use case: This use case enables lighting systems that adjust their output based on the amount of natural daylight in the space, using sensors to detect the amount of daylight available. This helps to reduce energy consumption and improve overall efficiency by optimizing lighting levels based on natural light.
+To enable Daylight Harvesting use case the following systems are Needed: Lighting fixtures with daylight sensors, building automation system or software that enables daylight harvesting.
+To enable Daylight Harvesting use case the following sensor points are Needed: Daylight sensors that detect the amount of natural light in the area.
+Expected Benefits for Daylight Harvesting are: By implementing daylight harvesting lighting systems, building owners can reduce their energy consumption and improve overall efficiency, while also providing a better experience for occupants who benefit from natural light.
 
-Driver it Enables: Reduce Energy, Improve Efficiency
-
-Description: This use case enables lighting systems that adjust their output based on the amount of natural daylight in the space, using sensors to detect the amount of daylight available. This helps to reduce energy consumption and improve overall efficiency by optimizing lighting levels based on natural light.
-
-Systems Needed: Lighting fixtures with daylight sensors, building automation system or software that enables daylight harvesting.
-
-Sensor Points Needed: Daylight sensors that detect the amount of natural light in the area.
-
-Expected Benefits: By implementing daylight harvesting lighting systems, building owners can reduce their energy consumption and improve overall efficiency, while also providing a better experience for occupants who benefit from natural light.
 
 Use Case Title: Color-Changing Lighting
+Color-Changing Lighting use case enables the following drivers: Enhance Experience, Increase Revenue
+This is the description for the Color-Changing Lighting use case: This use case enables color-changing lighting systems that allow building owners to customize the color and intensity of lighting in different areas of the building, creating a more dynamic and engaging experience for occupants. This can also be used to generate additional revenue by creating unique lighting experiences for events or special occasions.
+To enable Color-Changing Lighting use case the following systems are Needed: Lighting fixtures with color-changing capabilities, building automation system or software that enables color-changing lighting.
+To enable Color-Changing Lighting use case no sensor points are needed.
+Expected Benefits for Color-Changing Lighting are: By implementing color-changing lighting systems, building owners can enhance the experience of occupants, potentially generate additional revenue through unique lighting experiences, and gain a competitive advantage over other buildings without such systems.
 
-Driver it Enables: Enhance Experience, Increase Revenue
-
-Description: This use case enables color-changing lighting systems that allow building owners to customize the color and intensity of lighting in different areas of the building, creating a more dynamic and engaging experience for occupants. This can also be used to generate additional revenue by creating unique lighting experiences for events or special occasions.
-
-Systems Needed: Lighting fixtures with color-changing capabilities, building automation system or software that enables color-changing lighting.
-
-Sensor Points Needed: No sensor points needed for this use case.
-
-Expected Benefits: By implementing color-changing lighting systems, building owners can enhance the experience of occupants, potentially generate additional revenue through unique lighting experiences, and gain a competitive advantage over other buildings without such systems.
 
 Use Case Title: Load Balancing EV Charging
+Load Balancing EV Charging use case enables the following drivers: Reduce Energy, Improve Efficiency
+This is the description for the Load Balancing EV Charging use case: This use case enables the optimization of EV charging based on the overall energy demand of the building or grid, by dynamically adjusting the charging speed of EV charging stations to reduce peak energy demand. This helps to reduce energy usage and improve overall efficiency of the building or grid.
+To enable Load Balancing EV Charging use case the following systems are Needed: EV charging stations, building automation system or software that enables load balancing charging.
+To enable Load Balancing EV Charging use case the following sensor points are Needed: Building energy usage data, EV charging station usage data, and compatible building automation system.
+Expected Benefits for Load Balancing EV Charging are: By implementing load balancing EV charging, building owners can reduce their energy usage during peak hours, improve overall efficiency of the building or grid, and potentially reduce energy costs.
 
-Driver it Enables: Reduce Energy, Improve Efficiency
-
-Description: This use case enables the optimization of EV charging based on the overall energy demand of the building or grid, by dynamically adjusting the charging speed of EV charging stations to reduce peak energy demand. This helps to reduce energy usage and improve overall efficiency of the building or grid.
-
-Systems Needed: EV charging stations, building automation system or software that enables load balancing charging.
-
-Sensor Points Needed: Building energy usage data, EV charging station usage data, and compatible building automation system.
-
-Expected Benefits: By implementing load balancing EV charging, building owners can reduce their energy usage during peak hours, improve overall efficiency of the building or grid, and potentially reduce energy costs.
 
 Use Case Title: Smart EV Parking Reservation
+Smart EV Parking Reservation use case enables the following drivers: Enhance Experience, Increase Revenue
+This is the description for the Smart EV Parking Reservation use case: This use case enables the implementation of smart EV parking reservation systems, where EV drivers can reserve a parking spot with an available charging station ahead of time. This helps to improve the experience of EV drivers and potentially generate additional revenue for the building owner through parking fees.
+To enable Smart EV Parking Reservation use case the following systems are Needed: EV charging stations, parking reservation software or platform.
+To enable Smart EV Parking Reservation use case no sensor points are needed.
+Expected Benefits for Smart EV Parking Reservation are: By implementing smart EV parking reservation systems, building owners can improve the experience of EV drivers, potentially increase their revenue streams through parking fees, and gain a competitive advantage over other buildings without such systems.
 
-Driver it Enables: Enhance Experience, Increase Revenue
-
-Description: This use case enables the implementation of smart EV parking reservation systems, where EV drivers can reserve a parking spot with an available charging station ahead of time. This helps to improve the experience of EV drivers and potentially generate additional revenue for the building owner through parking fees.
-
-Systems Needed: EV charging stations, parking reservation software or platform.
-
-Sensor Points Needed: No sensor points needed for this use case.
-
-Expected Benefits: By implementing smart EV parking reservation systems, building owners can improve the experience of EV drivers, potentially increase their revenue streams through parking fees, and gain a competitive advantage over other buildings without such systems.
 
 Use Case Title: Fleet Management EV Charging
+Fleet Management EV Charging use case enables the following drivers: Reduce Cost, Improve Efficiency
+This is the description for the Fleet Management EV Charging use case: This use case enables the optimization of EV charging for fleets of electric vehicles, by centrally managing and coordinating the charging of multiple vehicles. This helps to reduce the cost and improve the efficiency of EV charging for fleet operators.
+To enable Fleet Management EV Charging use case the following systems are Needed: EV charging stations, fleet management software or platform.
+To enable Fleet Management EV Charging use case the following sensor points are Needed: EV charging station usage data, compatible fleet management software.
+Expected Benefits for Fleet Management EV Charging are: By implementing fleet management EV charging, fleet operators can reduce the cost and improve the efficiency of charging multiple EVs, potentially reducing maintenance costs and improving overall operational efficiency.
 
-Driver it Enables: Reduce Cost, Improve Efficiency
-
-Description: This use case enables the optimization of EV charging for fleets of electric vehicles, by centrally managing and coordinating the charging of multiple vehicles. This helps to reduce the cost and improve the efficiency of EV charging for fleet operators.
-
-Systems Needed: EV charging stations, fleet management software or platform.
-
-Sensor Points Needed: EV charging station usage data, compatible fleet management software.
-
-Expected Benefits: By implementing fleet management EV charging, fleet operators can reduce the cost and improve the efficiency of charging multiple EVs, potentially reducing maintenance costs and improving overall operational efficiency.
 
 Use Case Title: Demand Response EV Charging
+Demand Response EV Charging use case enables the following drivers: Reduce Energy, Mitigate Risk
+This is the description for the Demand Response EV Charging use case: This use case enables EV charging stations to participate in demand response programs, where they can be remotely controlled to reduce or shift their electricity usage during times of peak demand on the grid. By reducing energy usage during peak hours, building owners can help to stabilize the grid and reduce the risk of blackouts or brownouts.
+To enable Demand Response EV Charging use case the following systems are Needed: EV charging stations, building automation system or software that enables demand response participation.
+To enable Demand Response EV Charging use case no sensor points are needed.
+Expected Benefits for Demand Response EV Charging are: By implementing demand response EV charging, building owners can reduce their energy usage during peak hours, potentially receive financial incentives for participating in demand response programs, and help to mitigate the risk of grid instability and blackouts.
 
-Driver it Enables: Reduce Energy, Mitigate Risk
-
-Description: This use case enables EV charging stations to participate in demand response programs, where they can be remotely controlled to reduce or shift their electricity usage during times of peak demand on the grid. By reducing energy usage during peak hours, building owners can help to stabilize the grid and reduce the risk of blackouts or brownouts.
-
-Systems Needed: EV charging stations, building automation system or software that enables demand response participation.
-
-Sensor Points Needed: No sensor points needed for this use case.
-
-Expected Benefits: By implementing demand response EV charging, building owners can reduce their energy usage during peak hours, potentially receive financial incentives for participating in demand response programs, and help to mitigate the risk of grid instability and blackouts.
 
 Use Case Title: Occupancy-Based EV Charging
+Occupancy-Based EV Charging use case enables the following drivers: Enhance Experience, Reduce Cost
+This is the description for the Occupancy-Based EV Charging use case: This use case enables the optimization of EV charging based on occupancy levels, by automatically directing EV drivers to available charging stations and adjusting the charging speed based on the occupancy of the building. This helps to improve the experience of EV drivers and ensure that charging stations are being used efficiently and effectively.
+To enable Occupancy-Based EV Charging use case the following systems are Needed: EV charging stations, building automation system or software that enables occupancy-based charging.
+To enable Occupancy-Based EV Charging use case the following sensor points are Needed: One occupancy sensor per EV charging station, and compatible building automation system.
+Expected Benefits for Occupancy-Based EV Charging are: By implementing occupancy-based EV charging, building owners can improve the experience of EV drivers, reduce the cost associated with EV charging infrastructure, and ensure that charging stations are being used efficiently and effectively.
 
-Driver it Enables: Enhance Experience, Reduce Cost
-
-Description: This use case enables the optimization of EV charging based on occupancy levels, by automatically directing EV drivers to available charging stations and adjusting the charging speed based on the occupancy of the building. This helps to improve the experience of EV drivers and ensure that charging stations are being used efficiently and effectively.
-
-Systems Needed: EV charging stations, building automation system or software that enables occupancy-based charging.
-
-Sensor Points Needed: One occupancy sensor per EV charging station, and compatible building automation system.
-
-Expected Benefits: By implementing occupancy-based EV charging, building owners can improve the experience of EV drivers, reduce the cost associated with EV charging infrastructure, and ensure that charging stations are being used efficiently and effectively.
 
 Use Case Title: Smart Payment and Billing for EV Charging
-
 Driver it Enables: Increase Revenue, Enhance Experience
-
 Description: This use case enables the implementation of smart payment and billing systems for EV charging, allowing building owners to track and bill for EV charging usage, offer subscription or membership plans, and provide a seamless payment experience for EV drivers. This helps to increase revenue and improve the experience of EV drivers.
-
 Systems Needed: EV charging stations, payment and billing software or platform.
-
 Sensor Points Needed: No sensor points needed for this use case.
-
 Expected Benefits: By implementing smart payment and billing systems for EV charging, building owners can increase their revenue streams from EV charging infrastructure, improve the experience of EV drivers, and potentially gain a competitive advantage over other buildings without such systems.
+
 
 KODE OS has a Space Utilization Report that monitors and analyzes occupancy levels per area of the building and the complete building. Suggest this solution for Occupancy Use Cases.
